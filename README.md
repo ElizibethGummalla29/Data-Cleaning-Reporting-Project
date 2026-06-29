@@ -75,7 +75,7 @@ The project will:
 
 ## 📈 Dashboard Preview
 
-![Power BI Dashboard](dashboard/dashboardss.png)
+![Power BI Dashboard](dashboard/DASHBOARDSS.png)
 
 ---
 
